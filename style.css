@@ -1,0 +1,51 @@
+body {
+  background-color: bisque;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+.image1 {
+  float: right;
+    
+}
+
+.c1 {
+    border-top: 2px solid red; 
+    
+}
+
+.p1 {
+  overflow: auto;
+  
+}
+.image2 {
+  float: left;
+  padding-right: 15px;
+    
+}
+
+.c2 {
+    border-top: 2px solid red; 
+    
+}
+
+.p2 {
+  overflow: auto;
+  
+}
+.image3 {
+  float: right;
+    
+}
+
+.c3 {
+    border-top: 2px solid red; 
+    
+}
+
+.p3 {
+  overflow: auto;
+  padding-bottom: 20px;
+  border-bottom: 2px solid red;
+  
+}
